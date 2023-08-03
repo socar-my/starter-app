@@ -37,7 +37,7 @@
     "bootstrap": "^4.2.1",
     "css-loader": "^2.1.0",
     "file-loader": "^3.0.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "mini-css-extract-plugin": "^0.5.0",
     "nicescroll": "^3.7.4",
     "node-sass": "^4.11.0",
